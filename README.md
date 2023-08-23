@@ -1,4 +1,4 @@
-# Laravel Solid Example
+# Laravel Contact Form Send Email using Gmail SMTP
 
 [Link to article described this code](https://medium.com/@sahinuddinrony/laravel-10-markdown-how-to-laravel-contact-form-send-email-using-gmail-smtp-d1ed32d0e62c)
 
